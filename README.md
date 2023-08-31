@@ -13,8 +13,8 @@
 
 
 ### 🔭 I’m currently working on:
-
-- [Agile Methodologies and Tools](https://github.com/SaschaLucius/methods-and-tools)
+- https://saschalucius.github.io/methods-and-tools/
+- [Agile Methodologies and Tools](https://saschalucius.github.io/methods-and-tools/) [(repo)](https://github.com/SaschaLucius/methods-and-tools)
 - [Jave Spring-Boot JOOQ Event Sourcing Demo Project](https://github.com/SaschaLucius/spring-boot-jooq-event-sourcing)
 
 ### 🌱 I’m currently learning:
