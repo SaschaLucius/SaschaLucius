@@ -31,9 +31,11 @@
 
 - Agility
 - Mindfulness
+- Bash Scripting
 - Java
 - Svelte
 - Tauri
+- GitHub-Actions
 
 <!--
 Here are some ideas to get you started:
