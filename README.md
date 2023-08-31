@@ -13,7 +13,7 @@
 
 
 ### 🔭 I’m currently working on:
-- https://saschalucius.github.io/methods-and-tools/
+
 - [Agile Methodologies and Tools](https://saschalucius.github.io/methods-and-tools/) [(repo)](https://github.com/SaschaLucius/methods-and-tools)
 - [Jave Spring-Boot JOOQ Event Sourcing Demo Project](https://github.com/SaschaLucius/spring-boot-jooq-event-sourcing)
 
