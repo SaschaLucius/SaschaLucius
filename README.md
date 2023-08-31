@@ -3,15 +3,13 @@
 
 ### 🙌  I'm proud to share some of my projects:
 
-- [Interactive Scrum Guide](http://scrum-gui.de/)
-- [Interactive Scrum Guide (repo)](https://github.com/SaschaLucius/interactive-scrum-guide)
+- [Interactive Scrum Guide](http://scrum-gui.de/) [(repo)](https://github.com/SaschaLucius/interactive-scrum-guide)
 
 
-- [Monte Carlo Simulation Game](https://saschalucius.github.io/monte-carlo-knows-it-better/)
-- [Monte Carlo Simulation Game (Repo)](https://github.com/SaschaLucius/monte-carlo-knows-it-better)
+- [Monte Carlo Simulation Game](https://saschalucius.github.io/monte-carlo-knows-it-better/) [(repo)](https://github.com/SaschaLucius/monte-carlo-knows-it-better)
 
 
-- [Ebay Kleinanzeigen Java API](https://github.com/SaschaLucius/ek-api)
+- [eBay Kleinanzeigen Java API](https://github.com/SaschaLucius/ek-api)
 
 
 ### 🔭 I’m currently working on:
@@ -21,8 +19,8 @@
 
 ### 🌱 I’m currently learning:
 
-- Svelte
-- Spring Boot
+- [Svelte](https://svelte.dev/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
 
 ### ⚡ Fun fact:
 
@@ -32,15 +30,12 @@
 ### 💬 I'm interested in:
 
 - Agility
-- Management
+- Mindfulness
 - Java
 - Svelte
 - Tauri
-- Mindfulness
 
 <!--
-**SaschaLucius/SaschaLucius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
