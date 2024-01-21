@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is Sascha Lucius
 
+[get in contact](https://www.linkedin.com/in/sascha-lucius/)
+
 
 ### 🙌  I'm proud to share some of my projects:
 
@@ -15,21 +17,19 @@
 - [eBay Kleinanzeigen Java API](https://github.com/SaschaLucius/ek-api)
   - Java
 
-
-### 🔭 I’m currently working on:
-
 - [Agile Methodologies and Tools Collection](https://saschalucius.github.io/methods-and-tools/) [(repo)](https://github.com/SaschaLucius/methods-and-tools)
   - MkDocs 
-- [JIRA Stand-Up Buddy](private repo: aske me if you have interest)
-  - Violentmonkey, Chrome Extension, Svelte 
-- [Jave Spring-Boot JOOQ Event Sourcing Demo Project](https://github.com/SaschaLucius/spring-boot-jooq-event-sourcing)
-  - Java, Spring 
 
-### 🌱 I’m currently learning:
+### 🙌  I'm proud to tell you about my private projects:
 
-- [Svelte](https://svelte.dev/)
-- [Three.js](https://threejs.org/)
-- [Spring Boot](https://spring.io/projects/spring-boot)
+- JIRA Stand-Up Buddy (private repo: aske me if you have interest)
+  - Violentmonkey, Chrome Extension, Svelte
+
+- Docker helper scripts for common tools (Elasticsearch, PostgreSQL, Keycloak)
+  - Docker, Bash-Scripts
+
+- JIRA automation scripts (Sprint handling, ticket assignment, information sharing, reminder)
+  - GitHub-Actiosn, JavaScript
 
 ### Favourite Stack
 
@@ -38,6 +38,16 @@
 - Tauri
 - GitHub-Actions
 - Zsh
+
+### 🔭 I’m currently working on:
+
+- [Jave Spring-Boot JOOQ Event Sourcing Demo Project](https://github.com/SaschaLucius/spring-boot-jooq-event-sourcing)
+  - Java, Spring 
+
+### 🌱 I’m currently learning:
+
+- [Three.js](https://threejs.org/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
 
 ### ⚡ Fun fact:
 
@@ -50,13 +60,3 @@
 - Mindfulness and systemic coaching
 - Build tools to "scratch my own itches"
 - Traveling
-
-<!--
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
