@@ -3,7 +3,7 @@
 
 ### 🙌  I'm proud to share some of my projects:
 
-- [Digital Constellation Board]([http://scrum-gui.de/](https://saschalucius.github.io/constellation-board/)) (private repo)
+- [Digital Constellation Board](https://saschalucius.github.io/constellation-board/) (private repo)
   - Svelte + Three.js + Tauri
 
 - [Interactive Scrum Guide](http://scrum-gui.de/) [(repo)](https://github.com/SaschaLucius/interactive-scrum-guide)
