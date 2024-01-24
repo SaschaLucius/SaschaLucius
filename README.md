@@ -6,22 +6,33 @@
 ### 🙌  I'm proud to share some of my projects:
 
 - [Digital Constellation Board](https://saschalucius.github.io/constellation-board/) (private repo)
-  - Svelte + Three.js + Tauri
+  - Coaching tool for constellation work
+  - made with: Svelte + Three.js + Tauri
+
 
 - [Interactive Scrum Guide](http://scrum-gui.de/) [(repo)](https://github.com/SaschaLucius/interactive-scrum-guide)
-  - Svelte
+  - Interactive and filterable Agile Guides (Scrum, Kanban, ...)
+  - made with: Svelte
 
 - [Monte Carlo Simulation Game](https://saschalucius.github.io/monte-carlo-knows-it-better/) [(repo)](https://github.com/SaschaLucius/monte-carlo-knows-it-better)
-  - Svelte 
+  - Understand Monte Carlo Simulation as game
+  - made with: Svelte
 
 - [eBay Kleinanzeigen Java API](https://github.com/SaschaLucius/ek-api)
-  - Java
+  - Java API to access the unofficial eBay Kleinanzeigen API
+  - made with: Java
 
 - [Agile Methodologies and Tools Collection](https://saschalucius.github.io/methods-and-tools/) [(repo)](https://github.com/SaschaLucius/methods-and-tools)
-  - MkDocs
+  - Method and tool collection for Management and Coaching purposes
+  - made with: MkDocs
  
 - [Participant Survey](https://saschalucius.github.io/umfrage/) [(repo)](https://github.com/SaschaLucius/umfrage)
-  - Svelte
+  - Small survay rating tool for live survays e.g. on a Smartphone
+  - made with: Svelte
+ 
+- [SvelteKit Demo Project](https://saschalucius.github.io/sveltekit-demo/) [(repo)](https://github.com/SaschaLucius/sveltekit-demo)
+  - Demo Project with a lot of resources I have developed while lerning Svelte (e.g. 10 different versions to implement Tic Tac Toe in Svelte)
+  - made with: Svelte
 
 ### 🙌  I'm proud to tell you about my private projects:
 
