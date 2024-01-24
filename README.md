@@ -36,11 +36,14 @@
 
 ### Favourite Stack
 
-- Svelte + TS
-- Java
-- Tauri
-- GitHub-Actions
-- Zsh
+- [Svelte](https://svelte.dev/) + [TypeScript](https://www.typescriptlang.org/) (FE)
+- [Java](https://openjdk.org/) (BE)
+- [Tauri](https://tauri.app/) (Desktop App)
+- [GitHub](https://github.com/) (Code Hosting)
+- [GitHub-Actions](https://docs.github.com/en/actions) (CI-CD)
+- [GitHub-Pages](https://pages.github.com/) (Static Hosting)
+- [Zsh](https://www.zsh.org/) (Shell)
+- [Umami](https://umami.is/) (Web Analytics)
 
 ### 🔭 I’m currently working on:
 
