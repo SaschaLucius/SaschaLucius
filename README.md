@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is Sascha Lucius
 
+![](https://komarev.com/ghpvc/?username=SaschaLucius)
+
 [get in contact](https://www.linkedin.com/in/sascha-lucius/)
 
 
