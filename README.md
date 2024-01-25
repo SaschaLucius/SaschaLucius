@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is Sascha Lucius
 
+![Metrics](https://gist.githubusercontent.com/SaschaLucius/f874b0f7651674ef814c2e43d1188b3b/raw/4f885e7655f90f36a4b598cf93dfed33bd903c65/github-metrics.svg)
+
 [get in contact](https://www.linkedin.com/in/sascha-lucius/)
 
 
