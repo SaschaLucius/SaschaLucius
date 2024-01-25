@@ -17,3 +17,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: f874b0f7651674ef814c2e43d1188b3b
+          config_timezone: Europe/Berlin
