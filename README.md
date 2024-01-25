@@ -1,11 +1,9 @@
-## Hi there 👋, my name is Sascha Lucius
+![Metrics](/github-metrics.svg)
 
-![Metrics](https://gist.githubusercontent.com/SaschaLucius/f874b0f7651674ef814c2e43d1188b3b/raw/4f885e7655f90f36a4b598cf93dfed33bd903c65/github-metrics.svg)
-
-[get in contact](https://www.linkedin.com/in/sascha-lucius/)
+[LinkedIn](https://www.linkedin.com/in/sascha-lucius/)
 
 
-### 🙌  I'm proud to share some of my projects:
+# 🙌  I'm proud to share some of my projects:
 
 - [Digital Constellation Board](https://saschalucius.github.io/constellation-board/) (private repo)
   - Coaching tool for constellation work
@@ -36,7 +34,7 @@
   - Demo Project with a lot of resources I have developed while lerning Svelte (e.g. 10 different versions to implement Tic Tac Toe in Svelte)
   - made with: Svelte
 
-### 🙌  I'm proud to tell you about my private projects:
+# 🙌  I'm proud to tell you about my private projects:
 
 - JIRA Stand-Up Buddy (private repo: aske me if you have interest)
   - Violentmonkey, Chrome Extension, Svelte
@@ -47,7 +45,7 @@
 - JIRA automation scripts (Sprint handling, ticket assignment, information sharing, reminder)
   - GitHub-Actiosn, JavaScript
 
-### Favourite Stack
+# Favourite Stack
 
 - [Svelte](https://svelte.dev/) + [TypeScript](https://www.typescriptlang.org/) (FE)
 - [Java](https://openjdk.org/) (BE)
@@ -58,28 +56,26 @@
 - [Zsh](https://www.zsh.org/) (Shell)
 - [Umami](https://umami.is/) (Web Analytics)
 
-### 🔭 I’m currently working on:
+# 🔭 I’m currently working on:
 
 - [Jave Spring-Boot JOOQ Event Sourcing Demo Project](https://github.com/SaschaLucius/spring-boot-jooq-event-sourcing)
   - Java, Spring 
 
-### 🌱 I’m currently learning:
+# 🌱 I’m currently learning:
 
 - [Three.js](https://threejs.org/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 
-### ⚡ Fun fact:
+# ⚡ Fun fact:
 
 - I own more than 50 vintage camera lenses
 - I'm currently learning and playing the Handpan (FYI: cool digital version https://github.com/Robhub/handpaner)
 
-### 💬 I'm interested in:
+# 💬 I'm interested in:
 
 - Agility (Scrum, Kanban, Less, Fast Agile)
 - Mindfulness and systemic coaching
 - Build tools to "scratch my own itches"
 - Traveling
-
-### Stats
 
 ![](https://komarev.com/ghpvc/?username=SaschaLucius)
