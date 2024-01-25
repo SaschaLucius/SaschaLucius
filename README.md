@@ -56,6 +56,9 @@
 - [Zsh](https://www.zsh.org/) (Shell)
 - [Umami](https://umami.is/) (Web Analytics)
 
+![Topics](/metrics.plugin.topics.icons.svg)
+  
+
 # 🔭 I’m currently working on:
 
 - [Jave Spring-Boot JOOQ Event Sourcing Demo Project](https://github.com/SaschaLucius/spring-boot-jooq-event-sourcing)
