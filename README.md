@@ -5,10 +5,12 @@
 
 # 🙌  I'm proud to share some of my projects:
 
+- JIRA Stand-Up Buddy (private repo: aske me if you have interest)
+  - Violentmonkey, Chrome Extension, Svelte
+
 - [Digital Constellation Board](https://saschalucius.github.io/constellation-board/) (private repo)
   - Coaching tool for constellation work
   - made with: Svelte + Three.js + Tauri
-
 
 - [Interactive Scrum Guide](http://scrum-gui.de/) [(repo)](https://github.com/SaschaLucius/interactive-scrum-guide)
   - Interactive and filterable Agile Guides (Scrum, Kanban, ...)
@@ -35,9 +37,6 @@
   - made with: Svelte
 
 # 🙌  I'm proud to tell you about my private projects:
-
-- JIRA Stand-Up Buddy (private repo: aske me if you have interest)
-  - Violentmonkey, Chrome Extension, Svelte
 
 - Docker helper scripts for common tools (Elasticsearch, PostgreSQL, Keycloak)
   - Docker, Bash-Scripts
