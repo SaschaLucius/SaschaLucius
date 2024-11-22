@@ -1,4 +1,5 @@
-![Metrics](/github-metrics.svg)
+[<img src="https://gist.githubusercontent.com/SaschaLucius/8095d37df26573af8c657996f42bac19/raw/fecff2d84d4f162042692950250927849824bdba/general.svg">](#)
+
 
 [LinkedIn](https://www.linkedin.com/in/sascha-lucius/)
 [Curated list of my GitHub stars](https://github.com/SaschaLucius/my-awesome-stars)
@@ -56,8 +57,7 @@
 - [Zsh](https://www.zsh.org/) (Shell)
 - [Umami](https://umami.is/) (Web Analytics)
 
-![Topics](/metrics.plugin.topics.icons.svg)
-  
+[<img src="https://gist.githubusercontent.com/SaschaLucius/8095d37df26573af8c657996f42bac19/raw/fecff2d84d4f162042692950250927849824bdba/topics.svg">](#)
 
 # 🔭 I’m currently working on:
 
