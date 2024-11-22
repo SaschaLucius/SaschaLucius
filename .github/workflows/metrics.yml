@@ -16,8 +16,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
-          filename: metrics.plugin.topics.icons.svg
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
