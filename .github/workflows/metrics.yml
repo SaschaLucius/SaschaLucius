@@ -12,20 +12,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: 🦑 General
-        if: ${{ success() || failure() }}
+      - name: General
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
 
-      - name: 🦑 Topics
-        if: ${{ success() || failure() }}
+      - name: Topics
         uses: lowlighter/metrics@latest
         with:
           filename: topics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Berlin
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 15
