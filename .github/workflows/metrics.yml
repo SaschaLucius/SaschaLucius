@@ -16,6 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
+          base: header, activity, community, repositories, metadata
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
@@ -24,6 +25,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: topics.svg
+          token: NOT_NEEDED
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 15
