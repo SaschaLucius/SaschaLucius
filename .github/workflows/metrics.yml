@@ -7,16 +7,17 @@ on:
   workflow_dispatch:
 
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
-          base: ""
+          base: header
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
