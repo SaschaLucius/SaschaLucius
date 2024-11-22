@@ -17,7 +17,7 @@ jobs:
         with:
           filename: general.svg
           config_timezone: Europe/Berlin
-          base: header, repositories
+          base: header, repositories, metadata
           plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: gist
@@ -34,6 +34,3 @@ jobs:
           plugin_topics_mode: icons
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
-
-
-     
