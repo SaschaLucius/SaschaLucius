@@ -7,6 +7,10 @@
 
 # 🙌  I'm proud to share some of my projects:
 
+- [Flow-Timer](https://flow-timer.de/) [(repo)](https://github.com/SaschaLucius/meeting-timer)
+  - Meeting helper to keep track of the time
+  - made with: Svelte
+
 - JIRA Stand-Up Buddy (private repo: aske me if you have interest)
   - Violentmonkey, Chrome Extension, Svelte
 
