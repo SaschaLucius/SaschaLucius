@@ -9,25 +9,31 @@
 
 ## [Flow-Timer](https://flow-timer.de/) [(repo)](https://github.com/SaschaLucius/meeting-timer)
   - Meeting helper to keep track of the time
+  - you can repeat, and recursively create timer, as complex as you wish
   - made with: Svelte
   <img src="flow-timer.png" width="500">
 
 ## JIRA Stand-Up Buddy (private repo: aske me if you have interest)
-  - Violentmonkey, Chrome Extension, Svelte
+  - JIRA Stand up Helper
+  - suggests data driven questions to make yor standups more productive
+  - made with: Svelte
+  - future as Chrome Extension
   <img src="sub.gif" width="500">
 
 ## [Digital Constellation Board](https://saschalucius.github.io/constellation-board/) (private repo)
-  - Coaching tool for constellation work
+  - Coaching tool for family constellation work
+  - as free alternative to https://www.online-systembrett.com/en/
   - made with: Svelte + Three.js + Tauri
   <img src="constellation-board.png" width="500">
 
 ## [Interactive Scrum Guide](http://scrum-gui.de/) [(repo)](https://github.com/SaschaLucius/interactive-scrum-guide)
   - Interactive and filterable Agile Guides (Scrum, Kanban, ...)
+  - auto tagging
   - made with: Svelte
   <img src="scrum-guide.png" width="500">
 
 ## [Monte Carlo Simulation Game](https://saschalucius.github.io/monte-carlo-knows-it-better/) [(repo)](https://github.com/SaschaLucius/monte-carlo-knows-it-better)
-  - Understand Monte Carlo Simulation as game
+  - Understand Monte Carlo Forecast as game
   - made with: Svelte
   <img src="montecarlo.png" width="500">
 
@@ -72,12 +78,12 @@
 # 🔭 I’m currently working on:
 
 - [Jave Spring-Boot JOOQ Event Sourcing Demo Project](https://github.com/SaschaLucius/spring-boot-jooq-event-sourcing)
-  - Java, Spring 
+  - Java, Spring
 
 # 🌱 I’m currently learning:
 
-- [Three.js](https://threejs.org/)
-- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Golang](https://go.dev/)
+- [Web Extension Development](https://github.com/wxt-dev/wxt)
 
 # ⚡ Fun fact:
 
