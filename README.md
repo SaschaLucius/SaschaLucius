@@ -10,7 +10,7 @@
 ## [Flow-Timer](https://flow-timer.de/) [(repo)](https://github.com/SaschaLucius/meeting-timer)
   - Meeting helper to keep track of the time
   - made with: Svelte
-  ![Flow-Timer](flow-timer.png|width=500)
+  <img src="flow-timer.png" width="500">
 
 ## JIRA Stand-Up Buddy (private repo: aske me if you have interest)
   - Violentmonkey, Chrome Extension, Svelte
