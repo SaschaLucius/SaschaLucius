@@ -13,7 +13,7 @@
   - made with: Svelte
   <img src="flow-timer.png" width="500">
 
-## JIRA Stand-Up Buddy (private repo: aske me if you have interest)
+## JIRA Stand-Up Buddy (private repo: ask me if you have interest)
   - JIRA Stand up Helper
   - suggests data driven questions to make yor standups more productive
   - made with: Svelte
