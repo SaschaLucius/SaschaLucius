@@ -14,22 +14,22 @@
 
 ## JIRA Stand-Up Buddy (private repo: aske me if you have interest)
   - Violentmonkey, Chrome Extension, Svelte
-  ![Stand-Up Buddy](sub.gif|width=500)
+  <img src="sub.gif" width="500">
 
 ## [Digital Constellation Board](https://saschalucius.github.io/constellation-board/) (private repo)
   - Coaching tool for constellation work
   - made with: Svelte + Three.js + Tauri
-  ![Constellation Board](constellation-board.png|width=100)
+  <img src="constellation-board.png" width="500">
 
 ## [Interactive Scrum Guide](http://scrum-gui.de/) [(repo)](https://github.com/SaschaLucius/interactive-scrum-guide)
   - Interactive and filterable Agile Guides (Scrum, Kanban, ...)
   - made with: Svelte
-  ![Scrum Guide](scrum-guide.png|width=500)
+  <img src="scrum-guide.png" width="500">
 
 ## [Monte Carlo Simulation Game](https://saschalucius.github.io/monte-carlo-knows-it-better/) [(repo)](https://github.com/SaschaLucius/monte-carlo-knows-it-better)
   - Understand Monte Carlo Simulation as game
   - made with: Svelte
-  ![Monte Carlo](montecarlo.png|width=500)
+  <img src="montecarlo.png" width="500">
 
 ## [eBay Kleinanzeigen Java API](https://github.com/SaschaLucius/ek-api)
   - Java API to access the unofficial eBay Kleinanzeigen API
@@ -42,7 +42,7 @@
 ## [Participant Survey](https://saschalucius.github.io/umfrage/) [(repo)](https://github.com/SaschaLucius/umfrage)
   - Small survay rating tool for live survays e.g. on a Smartphone
   - made with: Svelte
-  ![Umfrage](umfrage.png|width=500)
+  <img src="umfrage.png" width="500">
  
 ## [SvelteKit Demo Project](https://saschalucius.github.io/sveltekit-demo/) [(repo)](https://github.com/SaschaLucius/sveltekit-demo)
   - Demo Project with a lot of resources I have developed while lerning Svelte (e.g. 10 different versions to implement Tic Tac Toe in Svelte)
