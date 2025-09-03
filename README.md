@@ -2,7 +2,7 @@
 
 
 [LinkedIn](https://www.linkedin.com/in/sascha-lucius/)
-[Curated list of my GitHub stars](https://github.com/SaschaLucius/my-awesome-stars)
+[Curated list of my GitHub stars](https://saschalucius.github.io/my-awesome-stars/)
 
 
 # 🙌  I'm proud to share some of my projects:
